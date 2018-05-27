@@ -1,4 +1,4 @@
-package javaprojetcs;
+package print.line;
 
 public class PrintLine {
 
